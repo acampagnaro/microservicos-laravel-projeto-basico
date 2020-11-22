@@ -83,7 +83,7 @@
                 <div class="title m-b-md">
                     Laravel 6.0 Docker </br>
                     Microserviços na Prática! </br>
-                    Paulo Soares
+                    Alexandre Campagnaro
                 </div>
 
             </div>

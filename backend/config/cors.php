@@ -16,7 +16,7 @@ return [
     */
 
     'supportsCredentials' => true,
-    'allowedOrigins' => explode(',', $origins),
+    'allowedOrigins' => ['*'],
     'allowedOriginsPatterns' => [],
     'allowedHeaders' => ['*'],
     'allowedMethods' => ['*'],
